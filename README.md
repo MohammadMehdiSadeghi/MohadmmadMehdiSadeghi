@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mohammad%20Mehdi%20Sadeghi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,55:4F46E5,100:8B5CF6&height=180&section=header&text=Mohammad%20Mehdi%20Sadeghi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
+
+</div>
+
+<div align="center">
+
+<a href="https://mohammad-mehdi-sadeghi.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Front-end+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Learning+Backend+%26+Software+Architecture" alt="Front-end Developer" />
+</a>
 
 </div>
 
@@ -110,15 +118,7 @@
 const developer = {
   name: "Mohammad Mehdi Sadeghi",
   role: "Front-end developer",
-  skills: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "Tailwind CSS",
-    "TypeScript",
-    "WordPress",
-  ],
+  skills: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS", "TypeScript", "WordPress"],
   learning: ["Backend", "Software Architecture"],
   focus: "Clean code & performance optimization",
 };
@@ -126,6 +126,6 @@ const developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,45:4F46E5,100:1E1B4B&height=100&section=footer" width="100%" />
 
 </div>
