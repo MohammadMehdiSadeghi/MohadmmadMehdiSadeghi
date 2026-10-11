@@ -1,5 +1,3 @@
-# profile readme
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mohammad%20Mehdi%20Sadeghi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=60&descSize=20" width="100%" />
@@ -8,26 +6,26 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/user.svg" width="24" height="24" align="absmiddle" /> About Me
+## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/user.svg?v=2" width="24" height="24" align="absmiddle" /> About Me
 
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/code.svg" width="20" height="20" align="absmiddle" /> I build modern, responsive web apps with **HTML, CSS, JavaScript, React and WordPress**
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/rocket.svg" width="20" height="20" align="absmiddle" /> I've worked on **educational platforms, startup projects and business websites**, focusing on clean code and performance
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/target.svg" width="20" height="20" align="absmiddle" /> I like shipping real projects that solve practical problems
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/bot.svg" width="20" height="20" align="absmiddle" /> I use **AI-powered tools** to speed up my developer workflow
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/graduation.svg" width="20" height="20" align="absmiddle" /> Student at **Rokad Startup School** (Web Design & Development)
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/trending.svg" width="20" height="20" align="absmiddle" /> Currently learning **backend development & software architecture** on the road to full-stack
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/code.svg?v=2" width="20" height="20" align="absmiddle" /> I build modern, responsive web apps with **HTML, CSS, JavaScript, React and WordPress**
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/rocket.svg?v=2" width="20" height="20" align="absmiddle" /> I've worked on **educational platforms, startup projects and business websites**, focusing on clean code and performance
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/target.svg?v=2" width="20" height="20" align="absmiddle" /> I like shipping real projects that solve practical problems
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/bot.svg?v=2" width="20" height="20" align="absmiddle" /> I use **AI-powered tools** to speed up my developer workflow
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/graduation.svg?v=2" width="20" height="20" align="absmiddle" /> Student at **Rokad Startup School** (Web Design & Development)
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/trending.svg?v=2" width="20" height="20" align="absmiddle" /> Currently learning **backend development & software architecture** on the road to full-stack
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/terminal.svg" width="24" height="24" align="absmiddle" /> Skills & Technologies
+## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/terminal.svg?v=2" width="24" height="24" align="absmiddle" /> Skills & Technologies
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/file-code.svg" width="18" height="18" align="absmiddle" /> <b>Languages</b></td>
-    <td align="center" width="34%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/layers.svg" width="18" height="18" align="absmiddle" /> <b>Frameworks & Libraries</b></td>
-    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/wrench.svg" width="18" height="18" align="absmiddle" /> <b>Tools & Platforms</b></td>
+    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/file-code.svg?v=2" width="18" height="18" align="absmiddle" /> <b>Languages</b></td>
+    <td align="center" width="34%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/layers.svg?v=2" width="18" height="18" align="absmiddle" /> <b>Frameworks & Libraries</b></td>
+    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/wrench.svg?v=2" width="18" height="18" align="absmiddle" /> <b>Tools & Platforms</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -49,7 +47,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/briefcase.svg" width="24" height="24" align="absmiddle" /> Experience
+## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/briefcase.svg?v=2" width="24" height="24" align="absmiddle" /> Experience
 
 - **Frontend Developer** at **Rokad Studio** (April 2026 – Present)
   Developing modern, responsive, and interactive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS. Collaborating on web applications, design systems, and frontend optimization.
@@ -58,7 +56,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/rocket.svg" width="24" height="24" align="absmiddle" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/rocket.svg?v=2" width="24" height="24" align="absmiddle" /> Featured Projects
 
 <div align="center">
 
@@ -69,22 +67,22 @@
     <th align="center">Link</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/globe.svg" width="18" height="18" align="absmiddle" /> <b>Personal Website</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/globe.svg?v=2" width="18" height="18" align="absmiddle" /> <b>Personal Website</b></td>
     <td align="center"><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>JavaScript</code></td>
     <td align="center"><a href="https://mohammad-mehdi-sadeghi.vercel.app/">Live</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/clipboard.svg" width="18" height="18" align="absmiddle" /> <b>Porskad</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/clipboard.svg?v=2" width="18" height="18" align="absmiddle" /> <b>Porskad</b></td>
     <td align="center"><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Supabase</code> <code>TypeScript</code></td>
     <td align="center"><a href="https://porskad.vercel.app/">Live</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/wifi.svg" width="18" height="18" align="absmiddle" /> <b>NetBridge</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/wifi.svg?v=2" width="18" height="18" align="absmiddle" /> <b>NetBridge</b></td>
     <td align="center"><code>Kotlin</code> <code>Android</code> <code>TypeScript</code></td>
     <td align="center"><a href="https://github.com/MohammadMehdiSadeghi/NetBridge">Code</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/trash.svg" width="18" height="18" align="absmiddle" /> <b>CacheCleaner</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/trash.svg?v=2" width="18" height="18" align="absmiddle" /> <b>CacheCleaner</b></td>
     <td align="center"><code>Python</code> <code>pywebview</code></td>
     <td align="center"><a href="https://github.com/MohammadMehdiSadeghi/CacheCleaner">Code</a></td>
   </tr>
@@ -94,15 +92,15 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/icons/send.svg" width="24" height="24" align="absmiddle" /> Connect with Me
+## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons/send.svg?v=2" width="24" height="24" align="absmiddle" /> Connect with Me
 
 <div align="center">
 
-<a href="https://mohammad-mehdi-sadeghi.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/website.svg" height="44" alt="Website" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/mohammad-mehdi-sadeghi" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://t.me/Mohammad_sadeghi34" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/telegram.svg" height="44" alt="Telegram" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/Mohammad_sadeghi3447" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/instagram.svg" height="44" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="mailto:mohammad.m.sadeghi09@gmail.com"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/MohammadMehdiSadeghi/main/assets/gmail.svg" height="44" alt="Gmail" /></a>
+<a href="https://mohammad-mehdi-sadeghi.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/website.svg" height="44" alt="Website" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mohammad-mehdi-sadeghi" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://t.me/Mohammad_sadeghi34" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/telegram.svg" height="44" alt="Telegram" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/Mohammad_sadeghi3447" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/instagram.svg" height="44" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="mailto:mohammad.m.sadeghi09@gmail.com"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/gmail.svg" height="44" alt="Gmail" /></a>
 
 </div>
 
