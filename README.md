@@ -18,14 +18,14 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/user.svg?v=1" width="40" height="40" align="absmiddle" /> About Me
+## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/user.svg?v=2" width="33" height="33" align="absmiddle" /> About Me
 
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/code.svg?v=1" width="30" height="30" align="absmiddle" /> I build modern, responsive web apps with **HTML, CSS, JavaScript, React and WordPress**
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/rocket.svg?v=1" width="30" height="30" align="absmiddle" /> I've worked on **educational platforms, startup projects and business websites**, focusing on clean code and performance
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/target.svg?v=1" width="30" height="30" align="absmiddle" /> I like shipping real projects that solve practical problems
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/bot.svg?v=1" width="30" height="30" align="absmiddle" /> I use **AI-powered tools** to speed up my developer workflow
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/graduation.svg?v=1" width="30" height="30" align="absmiddle" /> Student at **Rokad Startup School** (Web Design & Development)
-- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/trending.svg?v=1" width="30" height="30" align="absmiddle" /> Currently learning **backend development & software architecture** on the road to full-stack
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/code.svg?v=2" width="25" height="25" align="absmiddle" /> I build modern, responsive web apps with **HTML, CSS, JavaScript, React and WordPress**
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/rocket.svg?v=2" width="25" height="25" align="absmiddle" /> I've worked on **educational platforms, startup projects and business websites**, focusing on clean code and performance
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/target.svg?v=2" width="25" height="25" align="absmiddle" /> I like shipping real projects that solve practical problems
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/bot.svg?v=2" width="25" height="25" align="absmiddle" /> I use **AI-powered tools** to speed up my developer workflow
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/graduation.svg?v=2" width="25" height="25" align="absmiddle" /> Student at **Rokad Startup School** (Web Design & Development)
+- <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/trending.svg?v=2" width="25" height="25" align="absmiddle" /> Currently learning **backend development & software architecture** on the road to full-stack
 
 <div align="center">
 
@@ -33,15 +33,15 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/terminal.svg?v=1" width="40" height="40" align="absmiddle" /> Skills & Technologies
+## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/terminal.svg?v=2" width="33" height="33" align="absmiddle" /> Skills & Technologies
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/file-code.svg?v=1" width="28" height="28" align="absmiddle" /> <b>Languages</b></td>
-    <td align="center" width="34%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/layers.svg?v=1" width="28" height="28" align="absmiddle" /> <b>Frameworks & Libraries</b></td>
-    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/wrench.svg?v=1" width="28" height="28" align="absmiddle" /> <b>Tools & Platforms</b></td>
+    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/file-code.svg?v=2" width="23" height="23" align="absmiddle" /> <b>Languages</b></td>
+    <td align="center" width="34%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/layers.svg?v=2" width="23" height="23" align="absmiddle" /> <b>Frameworks & Libraries</b></td>
+    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/wrench.svg?v=2" width="23" height="23" align="absmiddle" /> <b>Tools & Platforms</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -67,7 +67,7 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/briefcase.svg?v=1" width="40" height="40" align="absmiddle" /> Experience
+## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/briefcase.svg?v=2" width="33" height="33" align="absmiddle" /> Experience
 
 - **Frontend Developer** at **Rokad Studio** (April 2026 – Present)
   Developing modern, responsive, and interactive user interfaces using React.js, Next.js, TypeScript, and Tailwind CSS. Collaborating on web applications, design systems, and frontend optimization.
@@ -80,7 +80,7 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/rocket.svg?v=1" width="40" height="40" align="absmiddle" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/rocket.svg?v=2" width="33" height="33" align="absmiddle" /> Featured Projects
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/send.svg?v=1" width="40" height="40" align="absmiddle" /> Connect with Me
+## <img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/icons-tile/send.svg?v=2" width="33" height="33" align="absmiddle" /> Connect with Me
 
 <div align="center">
 
