@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://mohammad-mehdi-sadeghi.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Front-end+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Learning+Backend+%26+Software+Architecture" alt="Front-end Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=40&v=2&lines=Front-end+Developer;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Learning+Backend+%26+Software+Architecture" alt="Front-end Developer" />
 </a>
 
 </div>
@@ -84,10 +84,10 @@
 
 <div align="center">
 
-<a href="https://mohammad-mehdi-sadeghi.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/personal-website.svg?v=1" width="430" alt="Personal Website" /></a>&nbsp;
-<a href="https://porskad.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/porskad.svg?v=1" width="430" alt="Porskad" /></a>&nbsp;
-<a href="https://github.com/MohammadMehdiSadeghi/NetBridge" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/netbridge.svg?v=1" width="430" alt="NetBridge" /></a>&nbsp;
-<a href="https://github.com/MohammadMehdiSadeghi/CacheCleaner" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/cachecleaner.svg?v=1" width="430" alt="CacheCleaner" /></a>
+<a href="https://mohammad-mehdi-sadeghi.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/personal-website.svg?v=1" width="49%" alt="Personal Website" /></a>
+<a href="https://porskad.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/porskad.svg?v=1" width="49%" alt="Porskad" /></a>
+<a href="https://github.com/MohammadMehdiSadeghi/NetBridge" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/netbridge.svg?v=1" width="49%" alt="NetBridge" /></a>
+<a href="https://github.com/MohammadMehdiSadeghi/CacheCleaner" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/cachecleaner.svg?v=1" width="49%" alt="CacheCleaner" /></a>
 
 </div>
 
@@ -119,7 +119,15 @@
 const developer = {
   name: "Mohammad Mehdi Sadeghi",
   role: "Front-end developer",
-  skills: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS", "TypeScript", "WordPress"],
+  skills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Tailwind CSS",
+    "TypeScript",
+    "WordPress",
+  ],
   learning: ["Backend", "Software Architecture"],
   focus: "Clean code & performance optimization",
 };
